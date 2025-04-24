@@ -1,1 +1,2 @@
 # Credit-Card-Classification
+This project builds a Support Vector Machine (SVM)-based model to classify credit card based on merged application and credit history datasets. The workflow includes data merging, cleaning, encoding, scaling, and feature selection. The model is trained and evaluated using accuracy, classification report, and a confusion matrix. Feature selection is done using ANOVA F-test, and the SVM is optimized with hyperparameter tuning.
